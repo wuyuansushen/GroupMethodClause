@@ -53,6 +53,7 @@ namespace GroupMethodClause
                     Console.WriteLine($"{product.Name,8}");
                 }
             }
+            Console.WriteLine();
 
             // This code produces the following output:
             //
